@@ -31,6 +31,32 @@ These tools are needed to assembly the Chladni plate, this does not include the 
 8) Then connect the subwoofer wires through the holes in the enclosure and screw them onto the board. Also connect the USB-A / audio jack wire from your audio source (laptop) through the hole behind and connect that to the amplifier. You also have to connect a DC power supply (9V-24V) to the amplifier board.
 9) Then place the cap on the top and screw in M3 size counter head screws until the cap is secured. And you're done!
 
+## Bill of Materials
+
+<details>
+<summary>Expand BOM</summary>
+
+| Item | Specification | Qty | Unit Price (CAD) | Total (CAD) | Source |
+|---|---|---:|---:|---:|---|
+| Subwoofer | 6.5-inch coaxial car speaker, 100W/160W | 1 | $20.79 | $20.79 | AliExpress — Woman Center Store |
+| M3 Washers | 304 stainless steel flat washer, 50pcs pack | 1 | $1.42 | $1.42 | AliExpress — JiYu320 Store |
+| Aluminum Plate | 200mm × 200mm, 1mm thick | 1 | $11.58 | $11.58 | AliExpress — MetalHome Wholesale Store |
+| Brass Insert Nuts & Screws | M3A assortment kit, 420pcs | 1 | $14.64 | $14.64 | AliExpress — YMAX A Salted Fish Store |
+| TPA3116D2 Amplifier Board | XY-1001W, 100W mono, potentiometer all-in-one | 1 | $16.28 | $16.28 | AliExpress — Tech Hub 103 Store |
+| Acrylic Sheet | 150mm × 150mm, 1mm thick | 1 | $1.63 | $1.63 | AliExpress — Disen Tools Store |
+| M3 Threaded Rod | DIN975, 304 stainless steel, M3 × 90mm, 5pcs/pack | 1 | $1.40 | $1.40 | AliExpress |
+| M3 Lock Nuts | 304 stainless steel, black hex, nylon insert self-locking nut | 1 | $1.40 | $1.40 | AliExpress |
+
+### Total Cost 
+
+| | Cost (CAD) |
+|---|---:|
+| **Items Subtotal** | **$69.46** |
+| Shipping | $13.63 |
+| **Estimated Total** | **$83.09** |
+
+</details>
+
 
 ## Wiring Diagram:
 

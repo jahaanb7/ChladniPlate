@@ -62,6 +62,8 @@ These tools are needed to assembly the Chladni plate, this does not include the 
 
 ### <img width="900" height="712" alt="Screenshot 2026-08-19 at 11 29 45 PM" src="https://github.com/user-attachments/assets/1bc12865-3d66-4902-a3db-c22bf87dd119" />
 
+### <img width="1113" height="784" alt="Screenshot 2026-10-02 at 1 37 36 AM" src="https://github.com/user-attachments/assets/587296dc-31ae-4885-894f-54cebd53ba75" />
+
 ## CAD Images
 
 <img width="767" height="435" alt="Screenshot 2026-08-20 at 12 03 26 AM" src="https://github.com/user-attachments/assets/0882f45a-8854-4c54-8dbf-32a80a99b917" />
